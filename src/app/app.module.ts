@@ -8,7 +8,7 @@ import { LayoutModule } from '@angular/cdk/layout';
 import { MatToolbarModule, MatButtonModule, MatSidenavModule, MatIconModule, MatListModule, MatGridListModule, MatCardModule, MatMenuModule, MatTableModule, MatPaginatorModule, MatSortModule } from '@angular/material';
 import { AppDashboardComponent } from './app-dashboard/app-dashboard.component';
 import { CourseTableComponent } from './course-table/course-table.component';
-
+import { StudentTableComponent } from './student-table/student-table.component';
 
 @NgModule({
   declarations: [
@@ -16,6 +16,7 @@ import { CourseTableComponent } from './course-table/course-table.component';
     AppNavComponent,
     AppDashboardComponent,
     CourseTableComponent,
+    StudentTableComponent
   ],
   imports: [
     BrowserModule,
