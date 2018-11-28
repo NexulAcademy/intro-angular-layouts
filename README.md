@@ -5,7 +5,7 @@ The project was initially generated using Angular CLI 6.0.8.  The instructions s
 
 # Prerequisites
 
-This walkthrough can be followed using a Windows, Mac or Linux computer.  An editor is required to edit files along and a terminal app. 
+This walkthrough can be followed using a Windows, Mac or Linux computer.  An editor is required to edit files along with a terminal app. 
 
 (1)Editor: The recommended editor application for Windows, Mac and Linux is VS Code.
 https://code.visualstudio.com/download
@@ -104,9 +104,9 @@ Tables containing data from a server API result are common in interactive data a
 
 Generate a table for students and another for courses with the following commands.
 
-	PS C:\dev\Repos\demo4> ng g @angular/material:material-table --name course-table
+	PS C:\dev\Repos\intro-angular-layouts> ng g @angular/material:material-table --name course-table
 
-	PS C:\dev\Repos\demo4> ng g @angular/material:material-table --name student-table
+	PS C:\dev\Repos\intro-angular-layouts> ng g @angular/material:material-table --name student-table
 	
 Compare your result to commits ['Step 7'](https://github.com/NexulAcademy/intro-angular-layouts/commit/3165c40742a4005ee016e751e5b0d3dadb29502c) and ['Step 7b'](https://github.com/NexulAcademy/intro-angular-layouts/commit/b4bf283ef05486e1225b9cdbac753a08532f6a5c).
 
