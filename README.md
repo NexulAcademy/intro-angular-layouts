@@ -1,3 +1,5 @@
+This project is ARCHIVED. The versions of dependencies are out of date. The steps still work in later versions of Angular with some small variations.
+
 # Introduction to Angular, building Page Layouts
 Introductory presentation project to learn practical application of Angular to build a new Angular project with muliple pages, create good looking layouts and display data.
 
